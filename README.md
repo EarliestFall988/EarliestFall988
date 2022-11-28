@@ -2,7 +2,7 @@
 - 👀 I’m interested in challenging design projects using PWAs
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me -> email me: howelltaylor195@gmail.com
+- 📫 How to reach me -> email me: twh@ksu.edu
 
 <!---
 EarliestFall988/EarliestFall988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
