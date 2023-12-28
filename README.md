@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EarliestFall988
 - 👀 I’m interested in challenging design projects using PWAs
-- 🌱 I’m currently learning T3
+- 🌱 I’m currently learning T3, and Elixir
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me -> email me: howelltaylor195@gmail.com
 
